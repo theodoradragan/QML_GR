@@ -1,0 +1,3 @@
+For values 11, 13, 17, solution is : 
+12
+Execution took 22578 seconds.

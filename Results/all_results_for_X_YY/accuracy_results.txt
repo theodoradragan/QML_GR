@@ -1,0 +1,7 @@
+Lambda is:  0.001
+Well classifed:  5
+Bad classified:  15
+Accuracy:  25.0
+
+################################
+

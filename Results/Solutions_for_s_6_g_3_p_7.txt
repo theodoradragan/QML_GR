@@ -1,0 +1,208 @@
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 45 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 234 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 391 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 198 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 199 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 317 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 156 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 396 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 1020 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 466 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 784 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 471 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 180 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 234 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 1404 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 463 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 198 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 45 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 388 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 78 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 619 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 198 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 78 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 131 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 234 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 181 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 674 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 136 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 44 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 234 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 197 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 1191 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 558 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 156 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 1034 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 360 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 199 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 158 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 237 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 199 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 162 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 50 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 470 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 79 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 134 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 400 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 394 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 648 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 327 seconds.
+-------------------------------------------------------------------------------------
+For values s=6, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 154 seconds.
+-------------------------------------------------------------------------------------
+[-1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1.
+ -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1.
+ -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1.]
+[-1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1.
+ -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1.
+ -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1. -1.]
+Accuracy is: 100.0%.
+Average execution time: 346.06

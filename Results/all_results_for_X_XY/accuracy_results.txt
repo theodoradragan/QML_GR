@@ -1,0 +1,49 @@
+Lambda is:  0.001
+Well classifed:  11
+Bad classified:  9
+Accuracy:  55.00000000000001
+
+################################
+
+Lambda is:  0.01
+Well classifed:  11
+Bad classified:  9
+Accuracy:  55.00000000000001
+
+################################
+
+Lambda is:  0.1
+Well classifed:  12
+Bad classified:  8
+Accuracy:  60.0
+
+################################
+
+Lambda is:  1
+Well classifed:  12
+Bad classified:  8
+Accuracy:  60.0
+
+################################
+
+Lambda is:  10
+Well classifed:  11
+Bad classified:  9
+Accuracy:  55.00000000000001
+
+################################
+
+Lambda is:  100
+Well classifed:  7
+Bad classified:  13
+Accuracy:  35.0
+
+################################
+
+Lambda is:  1000
+Well classifed:  9
+Bad classified:  11
+Accuracy:  45.0
+
+################################
+

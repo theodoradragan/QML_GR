@@ -1,0 +1,3 @@
+For values 7, 3, 17, solution is : 
+3
+Execution took 31739 seconds.

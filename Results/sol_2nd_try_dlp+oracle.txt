@@ -1,0 +1,40 @@
+For values s=1, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 214 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 270 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 90 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 629 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=1, p=7, logarithm is 0. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 350 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 523 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=5, p=7, logarithm is 5. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 177 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 1874 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 264 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=3, x=4, p=7, logarithm is 4. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 619 seconds.
+-------------------------------------------------------------------------------------

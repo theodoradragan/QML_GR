@@ -1,0 +1,8 @@
+For values s=1, g=2, x=1, p=7, logarithm is 12.
+Guessed label is -1.0, correct label was -1.0.
+Execution took 47 seconds.
+-------------------------------------------------------------------------------------
+For values s=1, g=2, x=2, p=7, logarithm is 12. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 158 seconds.
+-------------------------------------------------------------------------------------

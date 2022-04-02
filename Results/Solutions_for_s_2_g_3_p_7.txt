@@ -1,0 +1,48 @@
+For values s=2, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 419 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 211 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 579 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 83 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 170 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 828 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 240 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=6, p=7, logarithm is 3. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 456 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=3, p=7, logarithm is 1. 
+Guessed label is -1.0, correct label was -1.0.
+Execution took 321 seconds.
+-------------------------------------------------------------------------------------
+For values s=2, g=3, x=2, p=7, logarithm is 2. 
+Guessed label is 1.0, correct label was 1.0.
+Execution took 164 seconds.
+-------------------------------------------------------------------------------------
+[ 1.  1.  1. -1.  1.  1. -1.  1. -1.  1. -1. -1.  1.  1.  1. -1.  1.  1.
+ -1. -1. -1.  1.  1.  1.  1.  1. -1.  1.  1.  1.  1.  1. -1. -1. -1.  1.
+ -1.  1.  1. -1. -1. -1. -1.  1. -1.  1.  1.  1. -1.  1.]
+[ 1.  1.  1. -1.  1.  1. -1.  1. -1.  1.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+Accuracy is: 20.0%.
+Average execution time: 69.42

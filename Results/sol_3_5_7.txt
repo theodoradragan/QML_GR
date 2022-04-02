@@ -1,0 +1,3 @@
+For values 3, 5, 7, solution is : 
+5
+Execution took 1088 seconds.
